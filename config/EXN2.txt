@@ -1,0 +1,20 @@
+# excitation state name
+B 1PI
+# predissociation rate
+4.68e8 
+# number of transitions from this excitation state
+2
+# wavelength, radiation rate, self-absorption cross section
+98.6 0.42e8 7.07e-24
+# dissociation cross section
+O2 239e-24
+# photoionization cross section
+O2 626e-24
+100.9 0.80e8 7.21e-24
+O2 208e-24
+O2 462e-24
+# B 3PI
+# C3 1PI
+# O3 1PI
+# B!1SIG
+# C4!1SIG
